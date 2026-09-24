@@ -24,6 +24,41 @@ Newest first.
 
 ---
 
+### 2026-09-24  the capstone is three things, and the rest of the repo is not one of them
+**Decision.** Fix the capstone scope at the YouTube channel and Instagram account as the distribution half, the content engine behind them, and Nuuko. Everything else in my working repository is out, and the brief says so in writing rather than leaving it implied.
+**Why.** My own instruction, and it was the right one. The repository carries several lanes of work that have nothing to do with this venture, and the brief had quietly reached into two of them. A capstone that spreads across every lane reads as several capstones, which is what #cp-curation punishes, and the handbook asks for one work product with a real-world audience.
+**What changed.** The out-of-scope references came out of the brief. One custom LO, #voicefidelity, had been resting on a corpus that included out-of-scope writing, and it is rebuilt on 72,145 words of published pages instead. Part 2 now carries a scope statement naming what is in and what is out, which is a #cp-curation point as much as a scoping one.
+**Thrown away.** The two-register argument inside #voicefidelity, which only held while the corpus mixed two kinds of writing. With one register the LO is narrower and it is true, which is the better trade.
+**Status.** live.
+
+### 2026-09-24  the handbook in the repo is the 2024-25 edition, and it had the brief wrong
+**Decision.** Take the weight, the deadline and the scored LOs from the Forum assignment posting rather than from `Capstone Handbook 2026-2027.pdf`, and say so in the brief.
+**Why.** The file is named 2026-2027 but every page footer inside it reads "Capstone Handbook 2024-2025, Last updated: August 13, 2024". It says the Project Brief is worth 10%, due Saturday of week 3, and scored on all four Capstone LOs. Forum says 25%, due Sunday 27 September at 1:00am with late submission closing Monday 28th at 1:00am, and scored on **#cp-outcomeanalysis and #cp-qualitydeliverables only**. I had already corrected my own header down to 10% on the handbook's authority, which was the wrong direction.
+**What changed.** The brief header now carries the Forum figures and names the two scored LOs, and says Part 7 still lists all four because the cover sheet asks for the full set. Two of only two scored LOs are about measures and rubrics, which moves the weight of the document onto Part 2 and Part 7.
+**Evidence.** Forum assignment page; page footers throughout the handbook PDF.
+**Status.** live. The rest of the handbook's structure still matched the cover sheet, so it is trusted for everything except dates, weights and LO lists.
+
+### 2026-09-24  the cover sheet is the assignment, and my ten sections were not its sections
+**Decision.** Restructure the Project Brief into the order the official cover sheet template demands, and fill the template itself rather than submitting my own document.
+**Why.** I had been writing the brief as ten sections of my own. The template asks for a specific table and then five named sections: a one-page summary, a short summary of completed work, general plans for #navigation, a specific plan for scheduling capstone time, and HC and LO plans. The scheduling section was missing from my version entirely, and the template is pointed about it: I am submitting in week 3, after two full weeks of work, so it wants what I have already done and what I would change. The honest answer is that the work happened and more than twelve hours of it, but nothing separated capstone hours from channel hours, so I cannot count them. That is a #navigation problem rather than a discipline one and it is now written down as one.
+**What changed.** Eight parts in the template's order. New: the scheduling plan, backup plans with a trigger for each risk, a section on the people I work with and what happens to their feedback, and a scope statement naming what is out. The committee-faculty table, which was absent, now holds eight names with justifications.
+**Evidence.** `Project Brief cover sheet - Maria Dumitrescu - FILLED.docx`, 16 pages.
+**Status.** live.
+
+### 2026-09-24  a third repository, public, so the private two stay private
+**Decision.** Publish `github.com/riadumitrescu/capstone` with the capstone documents and a filtered decision log, and keep `riadms` and `nuuko-v1` private rather than adding my advisor as a collaborator.
+**Why.** The cover sheet wants a GitHub row a reader can click. `riadms` holds credentials and `nuuko-v1` is a live app with other people's private journals in it, and neither should be opened to solve a paperwork problem.
+**What changed.** 190 of 303 log entries dropped: writing and publishing work that the brief puts out of scope, and every entry naming a specific weakness in a live app. 113 kept. The log reads in first person now, because it was written in third person about me and that makes the author obvious. `LANES.md` states plainly that I use AI heavily, which model gets which job, and that the decisions are mine while much of the typing is not. That line is the point of the file.
+**Evidence.** github.com/riadumitrescu/capstone, three commits.
+**Status.** live.
+
+### 2026-09-24  "put the text down": the line goes back under my chin, and the taller box above my head is superseded
+**Decision.** On line cards the line sits under my chin at `--text-y 0.78 --allow-badge`, my face at the house size. The 22 September "taller box above my head" is superseded.
+**Why.** My words, on the rebuilt batch: *"can you put the text down."* The box above my head was the pipeline's answer to "text bigger"; my answer to seeing it is the line down, which is where every card I have praised carries it. Under the chin a long line's last word runs into the runtime badge, which six of my seven biggest cards do.
+**What changed.** All 17 line cards in `lab-0924` rebuilt; `PREFS.md`, `assets/thumb-templates.json`; `/thumb-lab` republished. The two note cards keep my 28 August recipe, line on top and the note low left.
+**Evidence.** `/thumb-lab#lab-0924`.
+**Status.** live. Supersedes the "taller box" part of the 2026-09-22 month audit; the "text bigger" ask stands and is met by the 0.19 cap and the shorter lines.
+
 ### 2026-09-24  three notes on the first rebuilt batch, and all three became rules
 **Decision.** On line cards the room is sharp (`--bg-blur 2`, not 12), a line needs real air above it (the checker fails a block starting above 0.048 of the frame), and a mid-word grin frame is never chosen over a level one, even when sharper.
 **Why.** My words on the first `lab-0924` pass: *"wayy too blurry the background and the text sometimes is cut by the thumbnail up and this pic is horrible."* The blur note is the second in three days. The 0.035 safe clamp had passed lines that my feed cut, so the clamp is a floor, not air. The frame was chosen because PREFS said it had replaced a flat one; I prefer the flat one.
