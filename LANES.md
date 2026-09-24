@@ -1,5 +1,11 @@
 # Lanes: which chat does what
 
+I use AI heavily and I would rather say so plainly than have somebody work it out.
+This file is the rule I work by. It says which model I hand which job to, and what
+no model is allowed to do without me. The decisions in DECISIONS.md are mine. A lot
+of the typing underneath them is not, and the line between those two is what this
+file exists to hold.
+
 Written 2026-09-11. The point is to spend the expensive model where a wrong call
 is expensive and the cheaper one where the work is well specified and checkable.
 Every lane ends the same way: smoke test, screenshots read, a DECISIONS.md entry,
@@ -44,11 +50,11 @@ Lanes for Opus, one per chat:
    (`nuuko-putting-entry-in-book.webp`), one animation only. Strategy 3.4.
 5. **The prompt copy pass.** Read `public/data/questions.json` and
    `public/scripts/people.js`. Every noticing and observer prompt must be
-   concrete, one event, no "why". Rewrite the ones that are not, in her voice,
+   concrete, one event, no "why". Rewrite the ones that are not, in my voice,
    lowercase. Strategy 3.2 and the literature file.
 6. **The capstone assignment drafts from the plan.** The Project Brief in the
    official cover-sheet structure, from `CAPSTONE-PLAN.md`, `RESEARCH-SYNTHESIS.md`
-   and `NUUKO-STRATEGY.md`, with `[NEEDS: ...]` where a fact is hers. Run
+   and `NUUKO-STRATEGY.md`, with `[NEEDS: ...]` where a fact is mine. Run
    `node scripts/ai-tells.mjs` on it in the riadms repo.
 7. **The desk.** `src/data/threads.ts` after every lane above, with the date.
 
@@ -60,6 +66,6 @@ worker precache list, fix a banned word the hook flagged.
 
 ## What no lane does alone
 
-- Push to `main` in nuuko-v1. She tests the branch's preview first.
+- Push to `main` in nuuko-v1. I tests the branch's preview first.
 - Switch on a checkout, a paid tier, or public sharing.
-- Send anything to a person or a service on her behalf.
+- Send anything to a person or a service on my behalf.
