@@ -74,23 +74,30 @@ week. Write four or five sentences and it is done.]`
 |---|---|
 | Main folder | Capstone 2026-2027 - ria dumitrescu, https://drive.google.com/drive/folders/1fQhyDn6kJDIhd5omx9aUDyShoMoACJvg |
 | Main writeup | this document |
-| GitHub | A public capstone repository holding these documents and the decision log. The two working repositories stay private. The app is live and needs no account to try, at https://nuuko.app, and the site the engine publishes is at https://riadms.com |
+| GitHub | https://github.com/riadumitrescu/capstone, public, no invitation needed. It holds these documents and the decision log. The two working repositories stay private, because one holds credentials and the other is a live app with real users' private journals in it. The app is open at https://nuuko.app with no account needed, and the site the engine publishes is at https://riadms.com |
 | HC and LO plans | Part 7 of this document, and the decision log |
 | Planning and progress | a dated decision log, one entry per decision, in a fixed shape. A decision I reverse is marked superseded rather than deleted, and the new entry links back to it |
 | Other, tools and systems | the decision log, the lane file that says which work goes to which tool, and git |
 
 ## Potential faculty for my Capstone committee (4 to 10)
 
-`[NEEDS: this whole section. I will not invent faculty names or their research interests.
-Open https://mnrva.link/faculty-expertise, pick 4 to 10, and I will write the
-justifications with you. What you are looking for, given this project: somebody on
-applied ML or on-device models, somebody on HCI or design research, somebody on
-entrepreneurship or product, and somebody on research ethics or privacy, since the social
-layer is the part that needs HSR. Prof Tam is the advisor and does not go in this table.]`
+Prof Tam is my advisor and does not go in this table. Chosen so that the committee covers
+both halves of the project rather than only the computational one.
 
 | faculty member | brief justification |
 |---|---|
-| | |
+| Prof Alexis Diamond, Computational Sciences | My central claim is a causal one: that owning the audience converts attention into retained users better than the same app could buy. Causal inference and program evaluation are her field. She is the person most likely to tell me my funnel comparison is not actually a comparison |
+| Prof Patrick Watson, Computational Sciences | Teaches CS156 and practical data science, and works on psychometrics, learning and memory. Nuuko's on-device classifier sits there, and so does the real question under the app, which is whether writing about one person changes what you notice. His interest in open science and replicability is the part of #cp-outcomeanalysis I want pushed hardest |
+| Prof Raquel Ribeiro, Computational Sciences | Teaches CP193 and CP194, and worked as a lead data scientist building real-time metrics for production systems. Instrumenting a funnel that does not exist yet is that job exactly |
+| Prof Carl Scheffler, Computational Sciences | Teaches CS110, CS114 and CS162, and spent five years as a machine learning software engineer. My #cp-qualitydeliverables bar for the engine is whether a stranger can clone it and run one command, and he can hold me to that as software rather than as a description of software |
+| Prof Aaron Lawry, Business | Teaches B144 and B164 on product development and reinvention, and researches consumer behaviour with mixed methods. He covers the half of this project that is an audience rather than an algorithm. I took B144 |
+| Prof Randi Doyle, Social Sciences | Works on behaviour change, habit formation and motivation. Every retention target here is a behaviour-change claim, and Nuuko removed streaks because users said they felt guilty. She is the person to challenge whether person-filing changes behaviour or only the interface |
+| Prof Grace Woods-Puckett, Arts & Humanities | Teaches AH166, which I am taking, and has supervised capstones built around film, photography and exhibitions. The video half is craft as much as software, and a committee of only computational scientists would have nobody who reads it that way |
+| Prof Aboozar Hadavand, Computational Sciences and Social Sciences | Teaches CS130, which is one of the LOs I am claiming, and works on causal inference, program evaluation and education technology |
+
+In reserve: Prof Philip Sterne, for the machine learning and software engineering pair;
+Prof Nikki Eberhardt, who teaches venture initiation and advises startups; and Prof Nadav
+Klein, on market dynamics and product analytics.
 
 ## Interdisciplinary minor
 
@@ -697,6 +704,7 @@ against a minimum of 24.
    second one is true.
 4. Pick 4 to 10 committee faculty from the expertise sheet.
 5. Confirm the deadline and the weight against Forum and myMinerva.
-6. Resolve the remaining `[NEEDS:]` markers: the faculty names, the initials, the info
-   form, and the email to the external expert.
+6. Resolve the remaining `[NEEDS:]` markers: the initials, the info form, and the email to
+   the external expert.
+7. Check which of the eight are actually available before the committee is fixed.
 7. Export one PDF, cover sheet first, and upload to Forum.
