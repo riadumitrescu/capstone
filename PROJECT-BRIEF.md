@@ -496,12 +496,13 @@ the day.
 Already run, before this year: a 25-person survey, three interviews, a 59-person survey
 after the MVP.
 
-What this year needs: user testing on the person pivot, consented data from the circle
-feature, and interviews.
+What this year needs: user testing on the person pivot, consented data from the
+shared-writing feature, and interviews.
 
-I am submitting in week 4, before the feature is finished, because the queue is the risk,
-not the paperwork, and I also want to ask Prof Tam at the first committee meeting whether
-the earlier studies need retrospective coverage or fall outside the scope entirely.
+I am submitting in week 4, before the feature is finished, because the waiting is the
+risk, not the paperwork, and I also want to ask Prof Tam at the first committee meeting
+whether the earlier studies need retrospective coverage or fall outside the scope
+entirely.
 
 One thing helps here. What a user shares in a circle is encrypted on their own device with
 a key that only travels inside the invite link, so the server never sees the content, and
@@ -771,8 +772,8 @@ Is it in the right place, given that most of the engine is a September build?
 2. My major for this capstone is Computer Science, so the two-from-each-major requirement is
 met four times over. Does four from Computational Sciences plus two other-college LOs plus
 four custom ones satisfy the rest of it? The custom ones have to be approved by spring
-week 7 and that is a queue, so I would rather know early if any of them are not worth the
-effort.
+week 7 and approvals take time, so I would rather know early if any of them are not worth
+the effort.
 3. We agreed the two-halves framing. How does it survive a second reader meeting it cold in a
 thirty-minute meeting?
 4. Do the studies I already ran need ethics approval after the fact, or only the new work?
