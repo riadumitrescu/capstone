@@ -60,7 +60,7 @@ is submitted, and I understand the systems my group uses.
 
 | what | link |
 |---|---|
-| Main folder | Public, and the one to click first: https://github.com/riadumitrescu/capstone. It carries the brief, the capstone plan, the decision log, the research synthesis and the product strategy. Google Drive copy: https://drive.google.com/drive/folders/1fQhyDn6kJDIhd5omx9aUDyShoMoACJvg |
+| Main folder | Public, and the one to click first: https://github.com/riadumitrescu/capstone. It carries the brief, the capstone plan, the decision log, the research synthesis and the product strategy. Google Drive copy: https://drive.google.com/drive/folders/1WSSZhWfRJYx8BamLzikoNDClTW7Fr0ic |
 | Main writeup | This document. Source text: https://github.com/riadumitrescu/capstone/blob/main/PROJECT-BRIEF.md |
 | GitHub | Two working repositories, both private, because one holds credentials and the other is a live app with other people's private journals in it. The app itself is open with no account needed at https://nuuko.app, and the site the engine publishes is at https://riadms.com. The public capstone repository is https://github.com/riadumitrescu/capstone |
 | HC and LO plans | Part 7 of this document. Tracking through the year is a dated entry per application in the decision log |
