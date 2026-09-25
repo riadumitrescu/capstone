@@ -60,12 +60,12 @@ is submitted, and I understand the systems my group uses.
 
 | what | link |
 |---|---|
-| Main folder | Capstone 2026-2027, https://drive.google.com/drive/folders/1fQhyDn6kJDIhd5omx9aUDyShoMoACJvg |
-| Main writeup | this document |
-| GitHub | https://github.com/riadumitrescu/capstone, public, no invitation needed. It holds these documents and the decision log. The two working repositories stay private, because one holds credentials and the other is a live app with real users' private journals in it. The app is open at https://nuuko.app with no account needed, and the site the engine publishes is at https://riadms.com |
-| HC and LO plans | Part 7 of this document, and the decision log |
-| Planning and progress | a dated decision log, one entry per decision, in a fixed shape. A decision I reverse is marked superseded rather than deleted, and the new entry links back to it |
-| Other, tools and systems | the decision log, the lane file that says which work goes to which tool, and git |
+| Main folder | Public, and the one to click first: https://github.com/riadumitrescu/capstone. It carries the brief, the capstone plan, the decision log, the research synthesis and the product strategy. Google Drive copy: https://drive.google.com/drive/folders/1fQhyDn6kJDIhd5omx9aUDyShoMoACJvg |
+| Main writeup | This document. Source text: https://github.com/riadumitrescu/capstone/blob/main/PROJECT-BRIEF.md |
+| GitHub | Two working repositories, both private, because one holds credentials and the other is a live app with other people's private journals in it. The app itself is open with no account needed at https://nuuko.app, and the site the engine publishes is at https://riadms.com. The public capstone repository is https://github.com/riadumitrescu/capstone |
+| HC and LO plans | Part 7 of this document. Tracking through the year is a dated entry per application in the decision log |
+| Planning and progress | https://github.com/riadumitrescu/capstone/blob/main/DECISIONS.md, and the map of the year at https://github.com/riadumitrescu/capstone/blob/main/CAPSTONE-PLAN.md |
+| Other, tools and systems | https://github.com/riadumitrescu/capstone/blob/main/LANES.md, which says which work goes to which tool and what no tool does alone. Research: https://github.com/riadumitrescu/capstone/blob/main/RESEARCH-SYNTHESIS.md. Product direction: https://github.com/riadumitrescu/capstone/blob/main/NUUKO-STRATEGY.md. Portfolio: https://www.mariadumitrescu.com |
 
 ## Potential faculty for my Capstone committee (4 to 10)
 
