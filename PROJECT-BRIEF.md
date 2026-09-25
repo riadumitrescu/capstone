@@ -32,18 +32,18 @@ human connection
 ## Academic Abstract
 
 This capstone tests whether one person owning both the audience and the product turns
-attention into retained users at a rate a normal consumer app cannot buy. The venture has
-two halves that are causally linked. The first is a content engine, the software that cuts,
+attention into retained users at a rate a normal consumer app cannot buy. The venture has two
+halves that are causally linked: the first is a content engine, the software that cuts,
 captions and publishes video to YouTube, Instagram and TikTok, which in the 90 days to 21
 September 2026 delivered 1,715,696 views and 1,306,099 minutes watched and gained 5,756
-subscribers against 1,238 lost. The second is Nuuko, a journaling app that files entries by
-the person they are about rather than by the date, built on prior research in which
-first-entry completion reached 78% against 31% for a blank-page control. Today no link
-exists between the two halves in either direction, so the conversion rate being studied is
-currently zero. The year's work is to connect them, instrument the funnel, ship and
-evaluate the person-filing model and its consented social layer, and package the engine so
-a creator who is not me can run it end to end. Success is defined in advance by rubrics
-written before the data, including the results that would disprove the central claim.
+subscribers against 1,238 lost, while the second is Nuuko, a journaling app that files entries
+by the person they are about rather than by the date, built on prior research in which
+first-entry completion reached 78% against 31% for a blank-page control. Today no link exists
+between the two halves in either direction, so the conversion rate being studied is currently
+zero, and the year's work is to connect them, instrument the funnel, ship and evaluate the
+person-filing model together with its consented social layer, and package the engine so that a
+creator who is not me can run it end to end. Success is defined in advance by rubrics written
+before the data, including the results that would disprove the central claim.
 
 ## A note to my advisor
 
