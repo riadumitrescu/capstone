@@ -344,9 +344,8 @@ The video process started from me editing my own videos and noticing what I kept
 repeating. The engine is that process written down as code.
 
 Where I use AI is in the building. I write code with it, I move faster with it, and a
-large share of the 1,414 commits from September were written with it open. I am not
-claiming the work is unassisted and I would rather say that plainly than have somebody
-work it out.
+large share of the 1,414 commits from September were written with it open. The work is not
+unassisted and I am not going to pretend it is.
 
 What I want assessed is the part that is actually mine, which is the judgement. Which lane
 to retire. What a prompt should ask. Where the automation has to stop and I have to look.
