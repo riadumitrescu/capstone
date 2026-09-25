@@ -22,12 +22,18 @@ measures and the rubrics in Part 2 are the part that carries the grade.
 
 # Part 1. The cover sheet
 
-**Name:** Maria Dumitrescu
+### Name:
 
-**Capstone Title:** One niche, both halves: a vertically integrated consumer venture in
+Maria Dumitrescu
+
+### Capstone Title:
+
+One niche, both halves: a vertically integrated consumer venture in
 human connection
 
-**Advisor Name:** Prof Gloria Tam
+### Advisor Name:
+
+Prof Gloria Tam
 
 ## Academic Abstract
 
@@ -95,9 +101,13 @@ Sciences college, and I am not claiming a minor or an interdisciplinary minor.
 
 # Part 2. One-page summary
 
-**The topic.** A consumer venture in human connection, owned end to end by one person.
+### The topic
 
-**The specific focus.** Two pieces, and they are connected.
+A consumer venture in human connection, owned end to end by one person.
+
+### The specific focus
+
+Two pieces, and they are connected.
 
 One is Nuuko, a journaling app that files what you write by the person it is about instead
 of by the date, and the other is the content engine, the software I built to cut, caption
@@ -115,23 +125,31 @@ because there is no link in either direction.
 I checked this framing with Prof Tam and she agreed to it, which matters, because a capstone
 that reads as two capstones stapled together is exactly what #cp-curation punishes.
 
-**The approaches.** Software engineering and product design for both halves, applied
+### The approaches
+
+Software engineering and product design for both halves, applied
 statistics for the funnel and the retention analysis, reported with intervals rather than
 headline percentages, and user research under HSR for the social layer, building on the
 methods already used for Nuuko v1, which were surveys, coded app-store reviews,
 semi-structured interviews and thematic analysis, plus an A/B design for person-filing
 against the blank-page control that already exists.
 
-**The work product.** One thing with two halves: Nuuko v2, person-filed, with a consented
+### The work product
+
+One thing with two halves: Nuuko v2, person-filed, with a consented
 social layer and tested with more people than the group that has seen it so far, and the
 content engine, packaged and documented so that a stranger can clone it and get a finished
 video out of a sample take. Each half has its own audience, since Nuuko is for people who
 journal about other people and the engine is for creators who want to run it.
 
-**What good success looks like.** Three rubrics, written now rather than afterwards, so I
+### What good success looks like
+
+Three rubrics, written now rather than afterwards, so I
 cannot bend them later to fit whatever happens.
 
-*The app.* Scored 1 to 4 by someone who is not me, on four questions: does a first-time
+#### The app
+
+Scored 1 to 4 by someone who is not me, on four questions: does a first-time
 user finish an entry without being told how, and can they say what the app is for
 afterwards; is the privacy claim true as built rather than as described, meaning that every
 feature's data path is written down and matches the code; does the social layer make a
@@ -139,17 +157,23 @@ private entry harder to leak rather than easier, which means that sharing is a s
 object you create on purpose and never a toggle on something you already wrote; and does it
 stand up next to Finch, How We Feel and Day One on the same task?
 
-*The engine.* A 4 is a stranger cloning it, running one command, and getting a finished
+#### The engine
+
+A 4 is a stranger cloning it, running one command, and getting a finished
 video out of a sample take without asking me anything, a 3 needs one fix that is not in the
 docs, a 2 runs only on my machine, and a 1 does not run at all. Three to five creators try
 it, and I write down where each of them stopped.
 
-*The documentation.* A 4 means a reader can redraw the pipeline's architecture without
+#### The documentation
+
+A 4 means a reader can redraw the pipeline's architecture without
 opening the code and can name three decisions that were reversed and why, a 3 gets the
 architecture but not the reversals, a 2 is a story with no decision record, and a 1 is a
 list of what was built.
 
-**The numbers, and where each one starts.** A target with no baseline is a wish, so every
+### The numbers, and where each one starts
+
+A target with no baseline is a wish, so every
 row has a measured starting point.
 
 | what | today | target by May | measured how |
@@ -164,7 +188,9 @@ row has a measured starting point.
 | net subscribers per 28 days | 4,518 net across 90 days, about 1,406 per 28, down from 2,715 in May | above 2,000 | YouTube Analytics |
 | creators running the engine | nobody outside has run it | 3 to 5, end to end, reporting back | a completed run |
 
-**The retention number needs saying out loud.** A figure of about 40% has been attached to
+### The retention number needs saying out loud
+
+A figure of about 40% has been attached to
 Nuuko in my own earlier documents, and it does not have a primary source in any of them,
 while the word retention means three different things across those same files, so the number
 cannot be compared to anything until its window and its denominator are written down. I am
@@ -174,19 +200,25 @@ read against it. For scale, the median 30-day retention across 93 real-world men
 apps is 3.3% (Baumel et al., 2019), which is the floor a real number gets judged against and
 the reason an unexamined 40% would not survive a second reader.
 
-**What usage actually is today.** 25 registered accounts and 349 entries on the live
+### What usage actually is today
+
+25 registered accounts and 349 entries on the live
 database as of 19 September 2026, which is a tester group rather than an audience, and
 everyone in it came to the app through me, so every number above is measured on that group
 and the year's work includes testing with people who are not part of it.
 
-**What would mean I was wrong.** A funnel that converts no better than ordinary paid
+### What would mean I was wrong
+
+A funnel that converts no better than ordinary paid
 acquisition, or retention that does not improve with the person pivot in place once the
 baseline is properly established. I am deliberately not naming a retention threshold here,
 because the honest position is that I do not yet have a number to beat, but the threshold
 gets written down the moment the baseline exists, and before the pivot ships rather than
 after. Either result is a finding, and either one gets written up as one.
 
-**What is in scope, and what is not.** In scope: the YouTube channel and the Instagram
+### What is in scope, and what is not
+
+In scope: the YouTube channel and the Instagram
 account as the distribution half, the content engine behind them, and Nuuko. Out of scope,
 said here so that it stays out: my book and the manuscript behind it, the podcast feed, the
 newsletter and the written articles, affiliate and brand deal work, and every other lane in
@@ -204,11 +236,15 @@ to say about the work.
 
 ## What is prior work, and which I am not claiming
 
-**Nuuko v1**, live at nuuko.app. Vanilla JS, IndexedDB, client-side AES-GCM encryption,
+### Nuuko v1
+
+Live at nuuko.app. Vanilla JS, IndexedDB, client-side AES-GCM encryption,
 Vercel functions, Supabase, an offline PWA, and a 4.2M-parameter transformer running on the
 device, distilled from a multitask BERT teacher at 0.89 validation accuracy.
 
-**The research behind it.** A 25-person survey, about 500 coded app-store reviews, three
+### The research behind it
+
+A 25-person survey, about 500 coded app-store reviews, three
 interviews with co-design moodboards, thematic analysis in Dovetail, and a 59-person survey
 after the MVP, out of which first-entry completion came in at 78% against 31% for a
 blank-page control.
@@ -254,24 +290,36 @@ The handbook's version of this LO is about the route rather than the destination
 tools below are ones that already run rather than ones I am proposing, and each of them is a
 record made at the time rather than one rebuilt afterwards.
 
-**The decision log.** Dated, one entry per decision, in a fixed shape, and a decision I
+### The decision log
+
+Dated, one entry per decision, in a fixed shape, and a decision I
 reverse is never deleted but marked superseded, with the newer entry linking back to it,
 which makes this the spine of the process documentation and the thing that makes a reversal
 legible instead of invisible.
 
-**The capstone plan.** Deadlines, outcome arithmetic, risks, what is built and what is not.
+### The capstone plan
 
-**The lane file.** Which work goes to which tool, and what no tool is allowed to do alone,
+Deadlines, outcome arithmetic, risks, what is built and what is not.
+
+### The lane file
+
+Which work goes to which tool, and what no tool is allowed to do alone,
 so that pushing to the app's main branch, switching on a payment and sending anything to a
 person are all on the list of things nothing does without me.
 
-**The live status page.** Every thread in flight, each with a date saying when I last
+### The live status page
+
+Every thread in flight, each with a date saying when I last
 re-read it, and the date is the useful part, because a thread nobody has looked at for three
 weeks is the one that stops without anyone noticing.
 
-**Git.** 3,324 commit messages written at the time, which beats any reconstruction.
+### Git
 
-**The Thursday check-in form**, due Saturday end of day, which I am treating as raw
+3,324 commit messages written at the time, which beats any reconstruction.
+
+### The Thursday check-in form
+
+Due Saturday end of day, and I am treating it as raw
 material for the process documentation rather than as admin, because that is what it
 actually is.
 
@@ -282,7 +330,9 @@ Appendix A does say that tracking HC and LO applications is expected, so this st
 question for Prof Tam rather than a settled decision: is the decision log enough, or does
 she want one of the spreadsheet templates instead?
 
-**The dead ends get their own section, not a passing mention.** The handbook says the two
+### The dead ends get their own section, not a passing mention
+
+The handbook says the two
 things people leave out are decisions they made and never acted on, and work they threw
 away. Mine so far: a second YouTube channel about design, built across August and dropped
 in September because it was not worth the attention; the media store hitting its free cap
@@ -292,7 +342,9 @@ sub-minute video lane, retired on 15 September once I measured that 233 videos o
 seconds or under had produced 37 net subscribers between them; and 108 Shorts published in
 August against a budget of 20, which is a system I wrote failing in a way I did not notice.
 
-**On AI, which the handbook asks about directly.** I use it a lot and I say so, including
+### On AI, which the handbook asks about directly
+
+I use it a lot and I say so, including
 to build the thing I am studying, and a large share of those 1,414 September commits were
 written with it, so I am not claiming the work is unassisted. What I am claiming instead is
 that the assistance is written down, including where it failed, recorded at the time with
@@ -300,7 +352,7 @@ the fault attached, and that the rules which came out of those failures are them
 result worth reporting: there are 186 of those notes, plus a lessons file that was never
 written to be graded.
 
-**The risks I can actually name.**
+### The risks I can actually name
 
 - HSR has a queue in front of it, and the social layer collects data from living people. So
   I am submitting in week 4, before the feature is finished.
@@ -313,7 +365,9 @@ written to be graded.
 - The channel generates an unlimited amount of work. The capstone lane is fixed, and Part 2
   says what is outside it.
 
-**The backup plan for each of them, decided now rather than in the week it happens.** The
+### The backup plan for each of them, decided now rather than in the week it happens
+
+The
 handbook's question is not whether I have a backup but whether I picked one in advance and
 know when to switch. So each one has a trigger.
 
@@ -328,7 +382,9 @@ know when to switch. So each one has a trigger.
 Switching is a decision, so each switch gets a dated decision-log entry saying what the
 trigger was, rather than a slow drift into the backup.
 
-**The people, and what I do with what they say.** This is the part of #navigation I am
+### The people, and what I do with what they say
+
+This is the part of #navigation I am
 worst at, because most of this work happens alone at a desk, so it is the part that needs a
 plan rather than an intention.
 
@@ -350,7 +406,9 @@ plan rather than an intention.
   decision-log entry that names where it came from. Feedback I decide not to act on gets an
   entry too, with the reason, because that is the one people leave out.
 
-**How I prepare for meetings.** A written agenda before each one, with the questions I
+### How I prepare for meetings
+
+A written agenda before each one, with the questions I
 actually need answered at the top, notes taken in the meeting template and pasted into the
 form afterwards, and decisions I am stuck on brought to the table rather than a progress
 report, because the progress is already visible in the log.
@@ -373,21 +431,31 @@ is a #navigation problem rather than a discipline one.
 
 ## What changes
 
-**Two fixed blocks, on the calendar, named.** Not "work on capstone" but the specific piece
+### Two fixed blocks, on the calendar, named
+
+Not "work on capstone" but the specific piece
 of it, so that the block is falsifiable by the time it ends.
 
-**The capstone lane is tagged.** Commits and decision-log entries that belong to the
+### The capstone lane is tagged
+
+Commits and decision-log entries that belong to the
 capstone get marked as such, so that the hours are countable from the record I already keep
 rather than from memory, and because this is a small change to something that already runs
 rather than a new habit, I think it will survive contact with a bad week.
 
-**Co-working sessions.** I will join one in week 4, since working alone is the failure mode
+### Co-working sessions
+
+I will join one in week 4, since working alone is the failure mode
 here and a session on the calendar is the cheapest fix for it.
 
-**Berlin.** I arrived in Berlin on 20 September, which is a late arrival into the rotation,
+### Berlin
+
+I arrived in Berlin on 20 September, which is a late arrival into the rotation,
 though it has not cost capstone hours so far and the timeline below assumes it will not.
 
-**The Thursday check-in as the weekly gate.** If the form is hard to fill in then the week
+### The Thursday check-in as the weekly gate
+
+If the form is hard to fill in then the week
 was unfocused, and that is the signal to act on before the next block rather than after the
 next deadline.
 
