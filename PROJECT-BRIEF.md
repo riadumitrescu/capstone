@@ -80,9 +80,9 @@ both halves of the project rather than only the computational one.
 
 | faculty member | brief justification |
 |---|---|
-| Prof Alexis Diamond, Computational Sciences | My central claim is a causal one: that owning the audience converts attention into retained users better than the same app could buy. Causal inference and program evaluation are her field. She is the person most likely to tell me my funnel comparison is not actually a comparison |
-| Prof Patrick Watson, Computational Sciences | Teaches CS156 and practical data science, and works on psychometrics, learning and memory. Nuuko's on-device classifier sits there, and so does the real question under the app, which is whether writing about one person changes what you notice. His interest in open science and replicability is the part of #cp-outcomeanalysis I want pushed hardest |
-| Prof Aaron Lawry, Business | Teaches B144 and B164 on product development and reinvention, and researches consumer behaviour with mixed methods. He covers the half of this project that is an audience rather than an algorithm. I took B144 |
+| Prof Alexis Diamond, Computational Sciences | My central claim is a causal one: that owning the audience converts attention into retained users better than the same app could buy. Causal inference and program evaluation are his field. He is the person most likely to tell me my funnel comparison is not actually a comparison |
+| Prof Patrick Watson, Computational Sciences | Teaches CS156 and practical data science, and works on psychometrics, learning and memory. Nuuko's on-device classifier sits there, and so does the real question under the app, which is whether writing about one person changes what you notice. Their interest in open science and replicability is the part of #cp-outcomeanalysis I want pushed hardest |
+| Prof Aaron Lawry, Business | Teaches B144 and B164 on product development and reinvention, and researches consumer behaviour with mixed methods. They cover the half of this project that is an audience rather than an algorithm. I took B144 |
 | Prof Grace Woods-Puckett, Arts & Humanities | Teaches AH166, which I am taking, and has supervised capstones built around film, photography and exhibitions. The video half is craft as much as software, and a committee of only computational scientists would have nobody who reads it that way |
 | Prof Aboozar Hadavand, Computational Sciences and Social Sciences | Teaches CS130, which is one of the LOs I am claiming, and works on causal inference, program evaluation and education technology |
 
