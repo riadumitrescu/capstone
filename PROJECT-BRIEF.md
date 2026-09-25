@@ -188,15 +188,15 @@ A target with no baseline is a wish, so every row has a measured starting point.
 
 ### The retention number
 
-A figure of about 40% has been attached to Nuuko in my own earlier documents, and it does
-not have a primary source in any of them, while the word retention means three different
-things across those same files, so the number cannot be compared to anything until its
-window and its denominator are written down. I am not carrying it into this brief as a
-baseline, and establishing it properly is the first measurement job of the year, which it
-has to be, because every other row in the table is read against it. For scale, the median
-30-day retention across 93 real-world mental health apps is 3.3% (Baumel et al., 2019),
-which is the floor a real number gets judged against and the reason an unexamined 40%
-would not survive a second reader.
+A figure of about 40% has been quoted for Nuuko, and it has no primary source. The word
+retention is also used to mean three different things across the documents it appears in,
+so the number cannot be compared to anything until the window and the group being counted
+are written down. I am not carrying it into this brief as a baseline, and establishing it
+properly is the first measurement job of the year, which it has to be, because every other
+row in the table is read against it. For scale, the median 30-day retention across 93
+real-world mental health apps is 3.3% (Baumel et al., 2019), which is the floor a real
+number gets judged against and the reason an unexamined 40% would not survive a second
+reader.
 
 ### What usage actually is today
 
@@ -247,11 +247,10 @@ which first-entry completion came in at 78% against 31% for a blank-page control
 
 ## What is capstone work
 
-An earlier draft of this brief called the content engine prior work, and that was wrong,
-because the git history is unambiguous. The first commit in that repository is 12 July
-2026, so the system is ten weeks old, and of its 3,324 commits, 1,414 were made on or
-after 1 September, with 1,102 of those falling in the first fifteen days of the month,
-alongside 206 new scripts added in September alone.
+The content engine is capstone work, and the git history shows it. The first commit in
+that repository is 12 July 2026, so the system is ten weeks old, and of its 3,324 commits,
+1,414 were made on or after 1 September, with 1,102 of those falling in the first fifteen
+days of the month, alongside 206 new scripts added in September alone.
 
 | part of the engine | when it was built | commits in September | since capstone week 1, 7 Sep |
 |---|---|---|---|
