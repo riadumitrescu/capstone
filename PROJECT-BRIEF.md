@@ -48,8 +48,8 @@ link exists between the two halves in either direction, so the conversion rate b
 studied is currently zero, and the year's work is to connect them, instrument the funnel,
 ship and evaluate the person-filing model together with its consented social layer, and
 package the engine so that a creator who is not me can run it end to end. Success is
-defined in advance by rubrics written before the data, including the results that would
-disprove the central claim.
+measured against rubrics written before the work starts, and those rubrics name the
+results that would disprove the central claim.
 
 ## A note to my advisor
 
@@ -115,12 +115,12 @@ and publish my videos to YouTube, Instagram and TikTok, which I want to release 
 other creators can run it too.
 
 The claim I am testing is that owning the audience and the product at the same time turns
-attention into retained users at a rate a normal app cannot buy, and the connection
-between the two is not rhetorical. In the 90 days to 21 September 2026 the channel
-delivered 1,715,696 views and 1,306,099 minutes watched, and gained 5,756 subscribers
-against 1,238 lost, so those people are the input and the app is what they arrive into.
-The rate at which one becomes the other is what I am actually studying, and right now that
-rate is zero, because there is no link in either direction.
+attention into retained users at a rate a normal app cannot buy, and the two are connected
+by an actual number. In the 90 days to 21 September 2026 the channel delivered 1,715,696
+views and 1,306,099 minutes watched, and gained 5,756 subscribers against 1,238 lost, so
+those people are the input and the app is what they arrive into. The rate at which one
+becomes the other is what I am actually studying, and right now that rate is zero, because
+there is no link in either direction.
 
 I checked this framing with Prof Tam and she agreed to it, which matters, because a
 capstone that reads as two capstones stapled together is exactly what #cp-curation
@@ -130,10 +130,10 @@ punishes.
 
 Software engineering and product design for both halves, applied statistics for the funnel
 and the retention analysis, reported with intervals, not headline percentages, and user
-research under HSR for the social layer, building on the methods already used for Nuuko
-v1, which were surveys, coded app-store reviews, semi-structured interviews and thematic
-analysis, plus an A/B design for person-filing against the blank-page control that already
-exists.
+research for the social layer, cleared by the ethics committee first, building on the
+methods already used for Nuuko v1, which were surveys, coded app-store reviews,
+semi-structured interviews and thematic analysis, plus an A/B design for person-filing
+against the blank-page control that already exists.
 
 ### The work product
 
@@ -145,8 +145,7 @@ other people and the engine is for creators who want to run it.
 
 ### What good success looks like
 
-Three rubrics, written now and not afterwards, so I cannot bend them later to fit whatever
-happens.
+Three rubrics, written before the work starts.
 
 #### The app
 
@@ -178,8 +177,8 @@ A target with no baseline is a wish, so every row has a measured starting point.
 | what | today | target by May | measured how |
 |---|---|---|---|
 | installs that came from the channel | 0, there is no link either way | a real number, set after a month of data | tagged link, first-open event |
-| first-entry completion | 78% against 31% for a blank page | stay above 70% with person-filing added | in-app funnel event, per cohort |
-| 30-day retention | not established. See the note below the table | set once the baseline exists, against a category median of 3.3% | return visits in a 30-day window, window and denominator written down first |
+| first-entry completion | 78% against 31% for a blank page | stay above 70% with person-filing added | in-app event, grouped by when people joined |
+| 30-day retention | not established. See the note below the table | set once the baseline exists, against a category median of 3.3% | return visits in a 30-day window, with the window and the group being counted written down first |
 | entries filed to a person | new | more than half of all entries | whether the field is set at write time |
 | users who send one letter | new | set after the first circle test | send event, opt-in only |
 | long-form length delivered | 5 videos missed the 8:30 floor by 18 to 58 seconds | all of them over 8:30, median 12 to 18 min | duration of the uploaded file |
@@ -187,7 +186,7 @@ A target with no baseline is a wish, so every row has a measured starting point.
 | net subscribers per 28 days | 4,518 net across 90 days, about 1,406 per 28, down from 2,715 in May | above 2,000 | YouTube Analytics |
 | creators running the engine | nobody outside has run it | 3 to 5, end to end, reporting back | a completed run |
 
-### The retention number needs saying out loud
+### The retention number
 
 A figure of about 40% has been attached to Nuuko in my own earlier documents, and it does
 not have a primary source in any of them, while the word retention means three different
@@ -271,8 +270,8 @@ without saying so, which puts both of them inside capstone week 1.
 
 1. Finishing the content engine and packaging it so somebody who is not me can run it.
 2. Shipping the person pivot in Nuuko and evaluating it, which is the harder half.
-3. Testing the social layer with real users, under a consent process that clears HSR.
-4. Instrumenting the funnel in both directions, which does not exist today.
+3. Testing the social layer with real users, with a consent process the ethics committee has approved.
+4. Building the measurement into the funnel in both directions. None of it exists today.
 5. The process documentation, which the handbook says is usually longer than the work.
 
 I would like Prof Tam to confirm where the line sits, since it is the most consequential
@@ -290,8 +289,7 @@ below already run, and each is a record made at the time.
 
 Dated, one entry per decision, in a fixed shape, and a decision I reverse is never deleted
 but marked superseded, with the newer entry linking back to it, which makes this the spine
-of the process documentation and the thing that makes a reversal legible instead of
-invisible.
+of the process documentation, and it means a reversal stays visible.
 
 ### The capstone plan
 
@@ -316,7 +314,7 @@ stops without anyone noticing.
 ### The Thursday check-in form
 
 Due Saturday end of day, and I am treating it as raw material for the process
-documentation and not as admin, because that is what it actually is.
+documentation and not as admin.
 
 I looked at the project management tools and the HC-tracking templates in Appendix A and I
 am not adding a new tool, because the decision log and the status page already do that job
@@ -325,7 +323,7 @@ Appendix A does say that tracking HC and LO applications is expected, so this st
 question for Prof Tam: is the decision log enough, or does she want one of the spreadsheet
 templates instead?
 
-### The dead ends get their own section
+### Dead ends
 
 The handbook says the two things people leave out are decisions they made and never acted
 on, and work they threw away. Mine so far: a second YouTube channel about design, built
@@ -337,38 +335,54 @@ they felt guilty; the sub-minute video lane, retired on 15 September once I meas
 Shorts published in August against a budget of 20, which is a system I wrote failing in a
 way I did not notice.
 
-### On AI, which the handbook asks about directly
+### Use of Generative AI
 
-I use it a lot and I say so, including to build the thing I am studying, and a large share
-of those 1,414 September commits were written with it, so I am not claiming the work is
-unassisted. I am claiming that the assistance is written down, including where it failed,
-recorded at the time with the fault attached, and that the rules which came out of those
-failures are themselves a result worth reporting. There are 186 of those notes, plus a
-lessons file that was never written to be graded.
+I built the channel, the app and the software behind them myself. The idea is mine, the
+research it rests on is mine, and the way the system works is the way I was already doing
+the job by hand before any of it was automated. Nuuko started from my own user research.
+The video process started from me editing my own videos and noticing what I kept
+repeating. The engine is that process written down as code.
 
-### The risks I can actually name
+Where I use AI is in the building. I write code with it, I move faster with it, and a
+large share of the 1,414 commits from September were written with it open. I am not
+claiming the work is unassisted and I would rather say that plainly than have somebody
+work it out.
 
-- HSR has a queue in front of it, and the social layer collects data from living people. So
-I am submitting in week 4, before the feature is finished.
-- Two halves and one person on twelve hours a week. The engine is largely built, so what is
-left there is finishing and packaging, not construction.
-- The F-1 visa makes taking money complicated. The circle stays invite-only on purpose and
+What I want assessed is the part that is actually mine, which is the judgement. Which lane
+to retire. What a prompt should ask. Where the automation has to stop and I have to look.
+Those calls came from me and from what I had already learned doing the work manually, and
+the dated decision log shows each one at the point it was made.
+
+The failures are written down too. I keep a record of where AI was wrong, with the fault
+attached, written on the day it happened. There are 186 of those notes and a longer
+lessons file, and none of it was written to be graded. Two of my four proposed custom LOs
+came directly out of those failures.
+
+### The risks
+
+- **Ethics approval.** The social layer collects data from real people, so it needs sign-off
+from Minerva's research ethics committee before testing can start, and I do not control
+how long that takes. I am submitting in week 4 so the wait runs alongside the build.
+- **One person, two halves, twelve hours a week.** The engine is mostly built, so what is
+left there is finishing and packaging.
+- **My visa.** An F-1 limits what I can earn from this, so the circle stays invite-only and
 a public launch is out of scope this year.
-- This system has shipped faults that were green in every automated check. That is why
-every stage now checks its own output. It is also one of my proposed custom LOs.
-- The channel generates an unlimited amount of work. The capstone lane is fixed, and Part 2
-says what is outside it.
+- **Checks that pass while the work is broken.** This system has shipped faults that every
+automated check called fine. Every stage now checks its own output. This is also one of my
+proposed custom LOs.
+- **The channel never runs out of work.** The capstone lane is fixed, and Part 2 lists what
+sits outside it.
 
-### The backup plan for each of them, decided now and not in the week it happens
+### The backup plan for each
 
-The handbook's question is not whether I have a backup but whether I picked one in advance
-and know when to switch. So each one has a trigger.
+Each one has a trigger, so I know when to switch instead of deciding it in the week it
+goes wrong.
 
 | if this happens | trigger | what I do instead |
 |---|---|---|
-| HSR has not come back | no decision by end of week 8 | the retention read runs on person-filing alone, with no circle data. The social layer ships to people who consent in person, and the consented study moves to spring |
+| the ethics committee has not come back | no decision by end of week 8 | the retention read runs on person-filing alone, with no circle data. The social layer ships to people who consent in person, and the consented study moves to spring |
 | the person pivot is not testable | not in front of a real user by 24 Oct | the midterm deliverable becomes the packaged engine, which is further along, and the pivot moves to the full draft |
-| no outside creator completes a run | nobody through by spring week 3 | one tester does a clean-room run that I watch and do not help with, and the packaging is reported as a failure with the stopping point named |
+| no outside creator completes a run | nobody through by spring week 3 | one tester sets it up from scratch on their own machine while I watch and say nothing, and the packaging is reported as a failure with the stopping point named |
 | the funnel gives too few installs to measure | checked at the first month of data | I report the interval and say the test was underpowered, instead of dressing a point estimate up as a result |
 | a custom LO is not approved | not approved by spring week 7 | the reserve LOs in Part 7 take its place. The work still gets written up, under an existing outcome instead |
 
@@ -417,8 +431,8 @@ Well over twelve hours, and none of it scheduled, and September's commit history
 record: 1,102 commits in the first fifteen days, 318 of them on the cutting and overlay
 code alone after 7 September. So the work happened, but what did not happen was any
 separation between capstone work and channel work, which means I cannot currently tell you
-how many of those twelve hours were capstone hours, and that is the thing to fix, since it
-is a #navigation problem, not a discipline one.
+how many of those twelve hours were capstone hours, and that is what I need to fix. It is
+a tracking problem, not a discipline one.
 
 ## What changes
 
@@ -477,8 +491,9 @@ by 31 October.
 
 # Part 6. Human subjects
 
-Anything that collects information from living people goes through HSR, and that has a
-real queue in front of it, not a formality.
+Anything that collects information from living people needs approval from Minerva's
+research ethics committee, and that approval takes time. It is not a form I can file on
+the day.
 
 Already run, before this year: a 25-person survey, three interviews, a 59-person survey
 after the MVP.
@@ -553,8 +568,8 @@ something a committee can read, keeping the two halves legible as one project.
 
 \#cs130-decisiondesign. Deciding whether a method is usable given what data actually
 exists, worked through the gate that retires an underperforming content lane, which uses a
-median, not a mean, because the distribution is long-tailed and the sample per lane is
-small.
+median, not a mean, because a few very large numbers would drag a mean around, and there
+are not many videos per lane.
 
 \#IL181003-FoundationalDeepLearning. Evaluating the 4.2M-parameter on-device model,
 distilled from a multitask teacher, on held-out data and under a memory budget set by the
@@ -649,8 +664,8 @@ has a written line saying what it may not do, and the fleet is split in two on e
 this question. Jobs that make no judgements run on a server and need no laptop, while jobs
 that need judgement run on my machine. Nothing sends an email, it only drafts one, nothing
 pushes to the app's main branch, and nothing switches on a payment. The Shorts gate is the
-sharpest case, because it exits non-zero instead of printing advice, since a note in a
-file is only advice to whoever reads it and nobody was reading it, which is how 108 Shorts
+sharpest case, because it stops the job instead of printing a warning. A warning in a file
+is only advice to whoever reads it, and nobody was reading it, which is how 108 Shorts
 went out against a budget of 20.
 
 Scored on four things: is the boundary written down where the system is, not remembered;
@@ -669,7 +684,8 @@ social layer, which wants accounts, a server, sync and moderation, would destroy
 finding the app was built on if it were built carelessly. The design keeps both. The
 private journal is untouched, anything shared is a separate object you create on purpose,
 not a setting on something you already wrote, and it is encrypted on the device to a key
-that travels only inside the invite link, so the server holds ciphertext it cannot read.
+that travels only inside the invite link, so the server only ever holds text it cannot
+read.
 
 Two real faults on the way show why this needs to be assessed, not assumed, since sync
 used to send an entry as plaintext if encryption threw, and the coach was pulling
@@ -728,8 +744,8 @@ person-filing.
 sampling frame, not a neutral population, and the write-up says so.
 16. #biasidentification. Recruiting testers from my own audience selects for people who
 already like me, which inflates every number in Part 2.
-17. #descriptivestats. Choosing the summary that fits the distribution. Medians for the
-long-tailed view counts, and means where a mean is honest.
+17. #descriptivestats. Choosing the summary that fits the data. Medians for view counts,
+where a few huge numbers would drag a mean around, and means where a mean is honest.
 18. #confidenceintervals. Retention and completion reported with intervals.
 19. #interviewsurvey. The instruments, and what was wrong with my first ones.
 20. #sourcequality. Re-checking the AI-assisted syntheses in my mini capstone against primary
@@ -761,7 +777,7 @@ week 7 and that is a queue, so I would rather know early if any of them are not 
 effort.
 3. We agreed the two-halves framing. How does it survive a second reader meeting it cold in a
 thirty-minute meeting?
-4. Do the earlier studies need retrospective HSR coverage, or only the new work?
+4. Do the studies I already ran need ethics approval after the fact, or only the new work?
 5. Are the custom LOs worth the approval effort, or is that ground covered well enough by
 existing HCs?
 6. Is a packaged open-source tool a defensible second half, given that whether 3 to 5
